@@ -1,0 +1,6 @@
+{
+  "name": "HOMAVALES",
+  "description": "Homavales PMDD Endocrine Cycle, DRSP daily symptom tracker, Continuous Glucose & Wearable Biometric telemetry platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

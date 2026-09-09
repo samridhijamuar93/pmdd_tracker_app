@@ -1,0 +1,51 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <group
+        android:scaleX="0.75"
+        android:scaleY="0.75"
+        android:translateX="13.5"
+        android:translateY="13.5">
+        <!-- Outer Orbital Cycle Glow -->
+        <path
+            android:fillColor="#00000000"
+            android:strokeColor="#FFC879FF"
+            android:strokeWidth="2.5"
+            android:strokeAlpha="0.8"
+            android:pathData="M 54,18 A 36,36 0 1,1 53.9,18" />
+
+        <!-- Phase Orbital Ring Gradient Marker -->
+        <path
+            android:fillColor="#00000000"
+            android:strokeColor="#FFFF70A6"
+            android:strokeWidth="5"
+            android:strokeLineCap="round"
+            android:pathData="M 54,18 A 36,36 0 0,1 90,54" />
+
+        <!-- Crescent Moon (Cycle & Endocrine Motif) -->
+        <path
+            android:fillColor="#FFE6B8FF"
+            android:pathData="M 54,30 C 40.75,30 30,40.75 30,54 C 30,67.25 40.75,78 54,78 C 50.5,72 48.5,63.5 48.5,54 C 48.5,44.5 50.5,36 54,30 Z" />
+
+        <!-- Central Blooming Lotus Core -->
+        <path
+            android:fillColor="#FFFF8FAB"
+            android:pathData="M 54,46 C 50,52 48,58 48,64 C 52,64 54,60 54,54 C 54,60 56,64 60,64 C 60,58 58,52 54,46 Z" />
+
+        <!-- Sparkling Endocrine Balance Star -->
+        <path
+            android:fillColor="#FFFFD166"
+            android:pathData="M 72,36 L 73.5,40.5 L 78,42 L 73.5,43.5 L 72,48 L 70.5,43.5 L 66,42 L 70.5,40.5 Z" />
+
+        <!-- Vitals Rhythm Spark -->
+        <path
+            android:fillColor="#00000000"
+            android:strokeColor="#FF06D6A0"
+            android:strokeWidth="3"
+            android:strokeLineCap="round"
+            android:strokeLineJoin="round"
+            android:pathData="M 38,54 L 42,54 L 45,47 L 49,60 L 53,51 L 56,54 L 60,54" />
+    </group>
+</vector>
